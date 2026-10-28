@@ -32,22 +32,6 @@
 
 ---
 
-### 💼 Experience Highlights
-
-* **Lead System Architect — E/E Architecture** | *Mercedes-Benz AG *
-  * Directed architectural design, decomposition, and functional safety alignment for highly distributed vehicle computing platforms.
-  * Authored scalable system blueprints using SysML, IBM DOORS Next Generation (DNG), and Enterprise Architect across international development clusters.
-  * Managed interface governance, technical reviews, and sprint cadence within SAFe and Scrum setups.
-
-* **Systems Engineer — Sensor Architecture** | *Valeo Schalter und Sensoren GmbH*
-  * Spearheaded system architecture models and functional safety documentation for automotive sensor controllers and ECU platforms.
-
-* **Systems Engineer — Mechatronic Platforms** | *NIDEC Motors and Actuators GmbH*
-  * Delivered end-to-end model-based architecture designs (SysML), design verification procedures, and requirements specifications.
-
-* **Validation & HIL Test Engineer** | *NIDEC GPM / Plusdrei Engineering / T&S*
-  * Engineered automated Hardware-in-the-Loop (HIL) test suites, signal acquisition rigs, and diagnostic protocols for safety-critical distributed controllers.
-
 ---
 
 ### 📜 Certifications & Education
